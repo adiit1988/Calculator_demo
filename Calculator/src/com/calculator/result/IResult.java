@@ -7,4 +7,8 @@ public interface IResult {
 	public void hide();
 	public void profile();
 	public void profileEdit();
+
+	public void profileView();
+	
+
 }
