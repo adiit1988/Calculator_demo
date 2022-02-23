@@ -5,4 +5,5 @@ public interface IResult {
 	public void init();
 	public void display();
 	public void hide();
+	public void profile();
 }
