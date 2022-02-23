@@ -12,4 +12,5 @@ public interface IResult {
 	public void profileNameEdit();
 	public void profileNameUserNameHide();
 	public void profileNameUserNameVisible();
+	public void profileNameUserNameProcess();
 }
