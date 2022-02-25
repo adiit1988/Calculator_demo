@@ -4,4 +4,7 @@ Class multiply implemnets IResult{
 		c = a*b;
 	}
 	
+	public Integer result(){
+		return c;
+	}		
 }
