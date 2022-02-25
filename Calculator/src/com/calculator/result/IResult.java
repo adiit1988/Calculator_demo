@@ -13,4 +13,7 @@ public interface IResult {
 	public void profileNameUserNameHide();
 	public void profileNameUserNameVisible();
 	public void profileNameUserNameProcess();
+	
+	public void profileDelete();
+	
 }
