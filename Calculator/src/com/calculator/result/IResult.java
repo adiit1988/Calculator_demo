@@ -15,5 +15,6 @@ public interface IResult {
 	public void profileNameUserNameProcess();
 	
 	public void profileDelete();
-	
+	public void profileAddition();
+
 }
