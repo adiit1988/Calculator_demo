@@ -16,5 +16,5 @@ public interface IResult {
 	
 	public void profileDelete();
 	public void profileAddition();
-
+	public void profileSubtract();
 }
